@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Ariane Perrin - Psychologue</title>
+  <title>Creative - Start Bootstrap Theme</title>
 
   <!-- Font Awesome Icons -->
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -31,20 +31,23 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll-trigger" href="#page-top">Accueil</a>
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto my-2 my-lg-0">
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#about">Qui suis-je ?</a>
+            <a class="nav-link js-scroll-trigger" href="#about">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#portfolio">Galerie</a>
+            <a class="nav-link js-scroll-trigger" href="#services">Services</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#contact">Me contacter</a>
+            <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
           </li>
         </ul>
       </div>
@@ -56,56 +59,66 @@
     <div class="container h-100">
       <div class="row h-100 align-items-center justify-content-center text-center">
         <div class="col-lg-10 align-self-end">
-          <h1 class="text-white font-weight-bold">Ariane PERRIN</h1>
-          <h2 class="text-white font-weight-bold">Psychologue</h2>
+          <h1 class="text-uppercase text-white font-weight-bold">Your Favorite Source of Free Bootstrap Themes</h1>
           <hr class="divider my-4">
         </div>
         <div class="col-lg-8 align-self-baseline">
-          <p class="text-white-75 font-weight-light mb-5">Citation ou phrase d'accroche ici</p>
-          <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Qui suis-je ?</a>
+          <p class="text-white-75 font-weight-light mb-5">Start Bootstrap can help you build better websites using the Bootstrap framework! Just download a theme and start customizing, no strings attached!</p>
+          <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
         </div>
       </div>
     </div>
   </header>
 
   <!-- About Section -->
-  <section class="page-section" id="about">
+  <section class="page-section bg-primary bg-peche" id="about">
     <div class="container">
-      <h2 class="text-center mt-0">Qui suis-je ?</h2>
+      <div class="row justify-content-center">
+        <div class="col-lg-8 text-center">
+          <h2 class="text-white mt-0">We've got what you need!</h2>
+          <hr class="divider light my-4">
+          <p class="text-white-50 mb-4">Start Bootstrap has everything you need to get your new website up and running in no time! Choose one of our open source, free to download, and easy to use themes! No strings attached!</p>
+          <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Get Started!</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Services Section -->
+  <section class="page-section" id="services">
+    <div class="container">
+      <h2 class="text-center mt-0">At Your Service</h2>
       <hr class="divider my-4">
       <div class="row">
         <div class="col-lg-3 col-md-6 text-center">
           <div class="mt-5">
-            <i class="fas fa-4x fa-graduation-cap text-primary mb-4"></i>
-            <h3 class="h4 mb-2">Ma formation</h3>
+            <i class="fas fa-4x fa-gem text-primary mb-4"></i>
+            <h3 class="h4 mb-2">Sturdy Themes</h3>
+            <p class="text-muted mb-0">Our themes are updated regularly to keep them bug free!</p>
           </div>
         </div>
-        <div class="col-lg-9 col-md-6">
+        <div class="col-lg-3 col-md-6 text-center">
           <div class="mt-5">
-       		<h5 class="orange mb-0">Psychologue clinicienne, psychothérapeute</h5></br>
-	        <p class="text-muted mb-0 custom-justify">Master 2 de psychologie clinique et psychopathologie, spécialité psychopathologie de la cognition et des interactions, Université de Lorraine, Nancy 2</p></br>
-		    <p class="text-muted mb-0 custom-justify">Diplôme de Maître-praticien en programmation neuro-linguistique, Independance Way, Bar-le-Duc</p></br>
-		    <p class="text-muted mb-0 custom-justify">Formation à la 	thérapie systémique - familiale, Le Creuset Familial, Metz (en cours)</p></br>
+            <i class="fas fa-4x fa-laptop-code text-primary mb-4"></i>
+            <h3 class="h4 mb-2">Up to Date</h3>
+            <p class="text-muted mb-0">All dependencies are kept current to keep things fresh.</p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6 text-center">
+          <div class="mt-5">
+            <i class="fas fa-4x fa-globe text-primary mb-4"></i>
+            <h3 class="h4 mb-2">Ready to Publish</h3>
+            <p class="text-muted mb-0">You can use this design as is, or you can make changes!</p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6 text-center">
+          <div class="mt-5">
+            <i class="fas fa-4x fa-heart text-primary mb-4"></i>
+            <h3 class="h4 mb-2">Made with Love</h3>
+            <p class="text-muted mb-0">Is it really open source if it's not made with love?</p>
           </div>
         </div>
       </div>
-      <div class="row">
-        <div class="col-lg-3 col-md-6 text-center">
-          <div class="mt-5">
-            <i class="fas fa-4x fa-walking text-primary mb-4"></i>
-            <h3 class="h4 mb-2">Mon parcours</h3>
-          </div>
-        </div>
-        <div class="col-lg-9 col-md-6">
-          <div class="mt-5">
-          	<p class="text-muted mb-0 custom-justify">Formée à l'Université de Lorraine aux théories psychodynamiques et aux fondamentaux de la psychologie, je base aujourd'hui ma pratique sur des courants plus intégratifs, inspirés de l'école de Palo Alto.</p></br> 
-			<p class="text-muted mb-0 custom-justify">Désireuse d'évoluer dans un environnement professionnel en mouvement, j'ai intégré différents services hospitaliers au sortir de l'université (consultations externes, hôpital de jour, oncologie, consultation mémoire, gériatrie, consultation douleur, soins de soutien, soins palliatifs...). Mobilisée tant auprès des équipes soignantes que des patients et de leur entourage, j'y ai multiplié les rencontres et me suis essayée à différentes techniques qui sont progressivement venues enrichir ma « boîte à outils » thérapeutique.</p></br>
-			<p class="text-muted mb-0 custom-justify">En 2017, je rejoins l'école de PNL (programmation neuro-linguistique) humaniste Independance Way de Bar-le-Duc et me forme pendant trois ans aux techniques de communication positive, de développement personnel et de coaching auprès de thérapeutes expérimentés.</p></br>
-			<p class="text-muted mb-0 custom-justify">Aujourd'hui installée à mon compte, je propose un suivi individuel et bienveillant, dans un espace chaleureux, pensé pour accueillir et accompagner un public adulte tout-venant en toute confidentialité. Véritable co-construction avec le patient, je base ma pratique sur sa collaboration active vers la transformation de comportements limitants en comportements ressources plus adaptés à ses besoins, dans le respect de ses valeurs et de son rythme propre.</p></br>
-			<p class="text-muted mb-0 custom-justify">Je poursuis aujourd'hui mon cursus de formation auprès du Creuset Familial de Metz, école de thérapie systémique et familiale, avec l'envie, à terme, d'accueillir familles et couples au cabinet.</p>
-          </div>
-        </div>
-      </div>	
     </div>
   </section>
 
@@ -114,51 +127,66 @@
     <div class="container-fluid p-0">
       <div class="row no-gutters">
         <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="img/portfolio/fullsize/cabinet1.jpg">
-            <img class="img-fluid" src="img/portfolio/thumbnails/cabinet1.jpg" alt="">
+          <a class="portfolio-box" href="img/portfolio/fullsize/1.jpg">
+            <img class="img-fluid" src="img/portfolio/thumbnails/1.jpg" alt="">
             <div class="portfolio-box-caption">
               <div class="project-category text-white-50">
-                Cliquez pour agrandir
+                Category
+              </div>
+              <div class="project-name">
+                Project Name
               </div>
             </div>
           </a>
         </div>
         <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="img/portfolio/fullsize/cabinet2.jpg">
-            <img class="img-fluid" src="img/portfolio/thumbnails/cabinet2.jpg" alt="">
+          <a class="portfolio-box" href="img/portfolio/fullsize/2.jpg">
+            <img class="img-fluid" src="img/portfolio/thumbnails/2.jpg" alt="">
             <div class="portfolio-box-caption">
               <div class="project-category text-white-50">
-                Cliquez pour agrandir
+                Category
+              </div>
+              <div class="project-name">
+                Project Name
               </div>
             </div>
           </a>
         </div>
         <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="img/portfolio/fullsize/cabinet3.jpg">
-            <img class="img-fluid" src="img/portfolio/thumbnails/cabinet3.jpg" alt="">
+          <a class="portfolio-box" href="img/portfolio/fullsize/3.jpg">
+            <img class="img-fluid" src="img/portfolio/thumbnails/3.jpg" alt="">
             <div class="portfolio-box-caption">
               <div class="project-category text-white-50">
-                Cliquez pour agrandir
+                Category
+              </div>
+              <div class="project-name">
+                Project Name
               </div>
             </div>
           </a>
         </div>
         <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="img/portfolio/fullsize/cabinet4.jpg">
-            <img class="img-fluid" src="img/portfolio/thumbnails/cabinet4.jpg" alt="">
+          <a class="portfolio-box" href="img/portfolio/fullsize/4.jpg">
+            <img class="img-fluid" src="img/portfolio/thumbnails/4.jpg" alt="">
             <div class="portfolio-box-caption">
               <div class="project-category text-white-50">
-                Cliquez pour agrandir
+                Category
+              </div>
+              <div class="project-name">
+                Project Name
               </div>
             </div>
           </a>
         </div>
         <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="img/portfolio/fullsize/cabinet5.jpg">
-            <img class="img-fluid" src="img/portfolio/thumbnails/cabinet5.jpg" alt="">
+          <a class="portfolio-box" href="img/portfolio/fullsize/5.jpg">
+            <img class="img-fluid" src="img/portfolio/thumbnails/5.jpg" alt="">
             <div class="portfolio-box-caption">
               <div class="project-category text-white-50">
-                Cliquez pour agrandir
+                Category
+              </div>
+              <div class="project-name">
+                Project Name
               </div>
             </div>
           </a>
@@ -168,7 +196,10 @@
             <img class="img-fluid" src="img/portfolio/thumbnails/6.jpg" alt="">
             <div class="portfolio-box-caption p-3">
               <div class="project-category text-white-50">
-                Cliquez pour agrandir
+                Category
+              </div>
+              <div class="project-name">
+                Project Name
               </div>
             </div>
           </a>
@@ -190,19 +221,20 @@
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-lg-8 text-center">
-          <h2 class="mt-0">Me contacter</h2>
+          <h2 class="mt-0">Let's Get In Touch!</h2>
           <hr class="divider my-4">
+          <p class="text-muted mb-5">Ready to start your next project with us? Give us a call or send us an email and we will get back to you as soon as possible!</p>
         </div>
       </div>
       <div class="row">
         <div class="col-lg-4 ml-auto text-center mb-5 mb-lg-0">
           <i class="fas fa-phone fa-3x mb-3 text-primary"></i>
-          <div>+33 6 37 41 85 53</div>
+          <div>+1 (202) 555-0149</div>
         </div>
         <div class="col-lg-4 mr-auto text-center">
           <i class="fas fa-envelope fa-3x mb-3 text-primary"></i>
           <!-- Make sure to change the email address in anchor text AND the link below! -->
-          <a class="d-block" href="mailto:a.perrin.psy@gmail.com">a.perrin.psy@gmail.com</a>
+          <a class="d-block" href="mailto:contact@yourwebsite.com">contact@yourwebsite.com</a>
         </div>
       </div>
     </div>

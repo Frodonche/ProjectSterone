@@ -1,3 +1,12 @@
 .bg-peche {
 	background-color: #ffad80 !important;
 } 
+
+.orange {
+	color: #ff9e68;
+}
+
+.custom-justify{
+	text-align: justify;
+	text-justify: auto;
+}
