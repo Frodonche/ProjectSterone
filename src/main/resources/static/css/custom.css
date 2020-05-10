@@ -10,3 +10,13 @@
 	text-align: justify;
 	text-justify: auto;
 }
+
+#map {
+    width: 75%;
+    height: 600px;
+    background-color: grey;
+}
+
+.bg2 {
+	background-color: #fff3ec!important;
+}
