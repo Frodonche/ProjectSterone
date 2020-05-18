@@ -115,7 +115,7 @@
           <hr class="divider my-4">
         </div>
         <div class="col-lg-8 align-self-baseline">
-          <p class="text-white-75 font-weight-light mb-5">Citation ou phrase d'accroche ici</p>
+          <p class="text-white-75 font-weight-light mb-5"><i>"A l’aube des lendemains heureux, je grandis au présent."</i> Jacques Salomé</p>
           <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Qui suis-je ?</a>
         </div>
       </div>
@@ -164,6 +164,10 @@
     </div>
   </section>
   
+  <div class="citation">
+	<p class="text-white-75 font-weight-light mb-5"><i>"Impose ta chance, serre ton bonheur et va vers ton risque, à te regarder ils s’habitueront."</i> René Char</p>
+  </div>
+  
   <!-- Cadre de travail -->
   <section class="page-section bg2" id="cadretravail">
     <div class="container">
@@ -173,7 +177,7 @@
       	<div class="mt-5">
       		<h5 class="orange mb-0">Cadre légal</h5></br>
       	</div>
-      	<div class="row">
+      	<div class="row text-center">
 	        <div class="col-lg-6 col-md-6">
 		        <p class="text-muted mb-0 custom-justify">La pratique du psychologue est soumise à réglementation ainsi qu’à des principes éthiques, fondés sur le respect et la reconnaissance de la personne dans sa dimension psychique comme droit inaliénable.</p></br>
 			    <p class="text-muted mb-0 custom-justify">« L’usage professionnel du titre de psychologue est défini par l’article 44 de la loi n°85-772 du 25 juillet 1985 complété par l’article 57 de la loi n° 2002-303 du 4 mars 2002 qui fait obligation aux psychologues de s’inscrire sur les listes ADELI. »</p></br>
@@ -182,16 +186,17 @@
 			    <p class="text-muted mb-0 custom-justify">Vous pouvez le retrouver dans son intégralité à cette adresse.</p></br>
 	        </div>
 	        <div class="col-lg-6 col-md-6">
-		          <img class="img-fluid" src="img/portfolio/thumbnails/cabinet1.jpg" alt="">
+		          <img class="img-fluid" src="img/presentation/3.jpg" alt="">
 	        </div>
         </div>
         
         <div class="mt-5">
         	<h5 class="orange mb-0">Conditions relatives à la réorientation du patient</h5></br>
         </div>    
-        <div class="row">
+        
+        <div class="row text-center">
 	        <div class="col-lg-6 col-md-6">
-		          <img class="img-fluid" src="img/portfolio/thumbnails/cabinet1.jpg" alt="">
+		          <img class="img-fluid" src="img/portfolio/fullsize/cabinet1.jpg" alt="">
 	        </div>
 	        <div class="col-lg-6 col-md-6">
 	          	<p class="text-muted mb-0 custom-justify">Dans le respect des bonnes pratiques abordées ci-dessus, de mes propres limites et de l’intégrité de ma patientèle, il est certaines situations spécifiques dans lesquelles je suis amenée à réorienter vers un autre professionnel :</p></br> 
@@ -205,7 +210,7 @@
         <div class="mt-5">
         	<h5 class="orange mb-0">La cadre thérapeutique</h5></br>
         </div>
-        <div class="row">
+        <div class="row text-center">
 	        <div class="col-lg-6 col-md-6">
 	          	<p class="text-muted mb-0 custom-justify">Le cadre thérapeutique est un espace privilégié d’accueil et d’échange. Propice à la libre expression et à la mise en place d’une relation de confiance et d’aide sécure, il engage patient et thérapeute à respecter certains principes :</p></br> 
 				<ul>
@@ -220,7 +225,7 @@
 				</ul>
 	        </div>
 	        <div class="col-lg-6 col-md-6">
-		          <img class="img-fluid" src="img/portfolio/thumbnails/cabinet1.jpg" alt="">
+		          <img class="img-fluid" src="img/presentation/1.jpg" alt="">
 	        </div>
         </div>
         
@@ -229,7 +234,7 @@
         </div>
         <div class="row">
         	<div class="col-lg-6 col-md-6">
-		          <img class="img-fluid" src="img/portfolio/thumbnails/cabinet1.jpg" alt="">
+		          <img class="img-fluid" src="img/presentation/8.jpg" alt="">
 	        </div>
 	        <div class="col-lg-6 col-md-6">
 	          	<p class="text-muted mb-0 custom-justify">La rencontre, plus longue qu’une séance classique, offre un espace d’accueil et de premier contact. Elle est propice à la présentation de chacun et pose les bases du cadre thérapeutique, vers l’établissement d’une relation de confiance. Faire appel à un psychologue peut être une démarche délicate, aussi est-il essentiel de se sentir à l’aise.</p></br> 
@@ -241,84 +246,56 @@
          <div class="mt-5">
         	<h5 class="orange mb-0">Les séances</h5></br>
         </div>
-        <div class="row">
+        <div class="row text-center">
 	        <div class="col-lg-6 col-md-6">
 	          	<p class="text-muted mb-0 custom-justify">L’entretien thérapeutique est à la fois un espace de travail et un outil d’accès au changement. Véritable travail de co-construction, psychologue et patient coopèrent à l’élaboration et l’atteinte d’un objectif personnalisé et réaliste, permettant la (re)découverte et la mise en place de ses ressources personnelles vers un mieux-être psychique, émotionnel et relationnel, dans le respect de son rythme propre.</p></br> 
 				<p class="text-muted mb-0 custom-justify">Les entretiens sont individuels et se déroulent au cabinet sur rendez-vous. Le prix d’une séance d’une heure est fixé à 50€. <b>De nombreuses mutuelles proposent aujourd’hui une prise en charge, les frais doivent cependant être avancés.</b> Une facture peut être fournie sur demande.</p></br>
 	        </div>
 	        <div class="col-lg-6 col-md-6">
-		          <img class="img-fluid" src="img/portfolio/thumbnails/cabinet1.jpg" alt="">
+		          <img class="img-fluid" src="img/presentation/7.jpg" alt="">
 	        </div>
         </div>
     </div>
   </section>
 
+ <div class="citation">
+	<p class="text-white-75 font-weight-light mb-5"><i>"Tout ce que tu soulignes pousse."</i></p>
+  </div>
+
   <!-- Portfolio Section -->
-  <section id="portfolio">
-    <div class="container-fluid p-0">
-      <div class="row no-gutters">
-        <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="img/portfolio/fullsize/cabinet1.jpg">
-            <img class="img-fluid" src="img/portfolio/thumbnails/cabinet1.jpg" alt="">
-            <div class="portfolio-box-caption">
-              <div class="project-category text-white-50">
-                Cliquez pour agrandir
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="img/portfolio/fullsize/cabinet2.jpg">
-            <img class="img-fluid" src="img/portfolio/thumbnails/cabinet2.jpg" alt="">
-            <div class="portfolio-box-caption">
-              <div class="project-category text-white-50">
-                Cliquez pour agrandir
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="img/portfolio/fullsize/cabinet3.jpg">
-            <img class="img-fluid" src="img/portfolio/thumbnails/cabinet3.jpg" alt="">
-            <div class="portfolio-box-caption">
-              <div class="project-category text-white-50">
-                Cliquez pour agrandir
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="img/portfolio/fullsize/cabinet4.jpg">
-            <img class="img-fluid" src="img/portfolio/thumbnails/cabinet4.jpg" alt="">
-            <div class="portfolio-box-caption">
-              <div class="project-category text-white-50">
-                Cliquez pour agrandir
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="img/portfolio/fullsize/cabinet5.jpg">
-            <img class="img-fluid" src="img/portfolio/thumbnails/cabinet5.jpg" alt="">
-            <div class="portfolio-box-caption">
-              <div class="project-category text-white-50">
-                Cliquez pour agrandir
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="img/portfolio/fullsize/6.jpg">
-            <img class="img-fluid" src="img/portfolio/thumbnails/6.jpg" alt="">
-            <div class="portfolio-box-caption p-3">
-              <div class="project-category text-white-50">
-                Cliquez pour agrandir
-              </div>
-            </div>
-          </a>
-        </div>
-      </div>
-    </div>
+  <section class="page-section" id="portfolio">
+  	 <div class="container text-center">
+  	 	<h2 class="text-center mt-0">Galerie</h2>
+      	<hr class="divider my-4">
+  	 	 
+		<div id="myCarousel" class="carousel slide" data-ride="carousel">
+		  <ol class="carousel-indicators">
+		    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+		    <li data-target="#myCarousel" data-slide-to="1"></li>
+		    <li data-target="#myCarousel" data-slide-to="2"></li>
+		    <li data-target="#myCarousel" data-slide-to="3"></li>
+		    <li data-target="#myCarousel" data-slide-to="4"></li>
+		  </ol>
+		  <div class="carousel-inner">
+		    <div class="carousel-item active">
+		      <img class="d-block w-100" src="img/carousel/0.jpg" alt="">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="img/carousel/1.jpg" alt="">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="img/carousel/2.jpg" alt="">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="img/carousel/3.jpg" alt="">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="img/carousel/4.jpg" alt="">
+		    </div>
+		  </div>
+		</div>
+
+ 	</div>
   </section>
 
   <!-- Call to Action Section -->
@@ -327,21 +304,18 @@
       <h2 class="mb-4">Infos pratiques</h2>
       <hr class="divider my-4">
      
-     <div class="mt-5">
-	     <div class="row">
-		 	<div class="col-lg-6 col-md-6">
-	   	  		<div id="map"></div>
-		  	</div>
-	      	<div class="col-lg-6 col-md-6">
-	      		<ul>
-	      			<li class="text-muted mb-0 custom-justify">Parking payant devant le cabinet</li></br>
-	      			<li class="text-muted mb-0 custom-justify">Parking gratuit à proximité (patinoire)</li></br>
-	      			<li class="text-muted mb-0 custom-justify">Rez de chaussée (pas d'accès handicapé)</li></br>
-	      		</ul>
-	      	</div>
-	     </div>
-     </div>
-    </div>
+
+      <div id="map"></div>
+	 	
+	  <hr class="divider my-4">
+     
+	  <div class="text-center">
+	  	<p class="mb-0">8 avenue du Président J.F. Kennedy, 57000 Metz</p>
+	  	<p class="text-muted mb-0">Rez-de-chaussée (pas d'accès handicapé)</p>
+	   	<p class="text-muted mb-0">Parking payant devant le cabinet</p>
+	   	<p class="text-muted mb-0">Parking gratuit à proximité (patinoire)</p>
+	  </div>
+  	</div>	
   </section>
 
   <!-- Contact Section -->
@@ -363,6 +337,9 @@
           <!-- Make sure to change the email address in anchor text AND the link below! -->
           <a class="d-block" href="mailto:a.perrin.psy@gmail.com">a.perrin.psy@gmail.com</a>
         </div>
+        <a href="https://www.doctolib.fr/psychologue/metz/ariane-perrin" style="color:#fff" target="_blank" data-reactroot=""><div style="display:block;text-align:center;background-color:#ff9e68;color:#ffffff;font-size:14px;overflow:hidden;width:100%;height:44px;line-height:44px;padding:none;position:fixed;z-index:1010;bottom:0;right:0;left:0"><img style="height:23px;float:left;margin:10px 5px 0 5px;vertical-align:middle;width:auto" src="https://www.doctolib.fr/external_button/doctolib-white-transparent.png" alt="Doctolib"/><span style="display:block;float:left">Prendre rendez-vous en ligne</span><button type="button" style="display:block;width:176px;height:34px;border-radius:4px;background-color:#ffffff;line-height:32px;color:#ff9e68;margin:0 auto;text-transform:uppercase;float:right;margin-top:5px;margin-right:5px">Cliquez ici</button></div></a>
+
+        
       </div>
     </div>
   </section>
