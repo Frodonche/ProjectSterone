@@ -80,10 +80,7 @@
   <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
     <div class="container">
       <a class="navbar-brand js-scroll-trigger" href="#page-top">Accueil</a>
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarResponsive">
+    
         <ul class="navbar-nav ml-auto my-2 my-lg-0">
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#about">Qui suis-je ?</a>
@@ -101,7 +98,7 @@
             <a class="nav-link js-scroll-trigger" href="#contact">Me contacter</a>
           </li>
         </ul>
-      </div>
+ 
     </div>
   </nav>
 
@@ -183,7 +180,7 @@
 			    <p class="text-muted mb-0 custom-justify">« L’usage professionnel du titre de psychologue est défini par l’article 44 de la loi n°85-772 du 25 juillet 1985 complété par l’article 57 de la loi n° 2002-303 du 4 mars 2002 qui fait obligation aux psychologues de s’inscrire sur les listes ADELI. »</p></br>
 			    <p class="text-muted mb-0 custom-justify">Dans cette optique je m’engage à faire connaître, respecter et me référer au Code de déontologie des psychologues de la GIRéDéP (Groupe Inter organisationnel de Réglementation de la Déontologie des Psychologues) du 22 mars 1996, actualisé en février 2012.</p></br>
 			    <p class="text-muted mb-0 custom-justify">Il est destiné à « servir de règle aux personnes titulaires du titre de psychologue, quels que soient leur mode et leur cadre d’exercice […]. Le respect de ces règles protège le public des mésusages de la psychologie et l’utilisation de méthodes et techniques se réclamant abusivement de la psychologie.»</p></br>
-			    <p class="text-muted mb-0 custom-justify">Vous pouvez le retrouver dans son intégralité à cette adresse.</p></br>
+			    <p class="text-muted mb-0 custom-justify">Vous pouvez le retrouver dans son intégralité à <a href="http://www.codededeontologiedespsychologues.fr/LE-CODE.html">cette adresse</a>.</p></br>
 	        </div>
 	        <div class="col-lg-6 col-md-6">
 		          <img class="img-fluid" src="img/presentation/3.jpg" alt="">
